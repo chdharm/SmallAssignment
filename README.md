@@ -5,4 +5,4 @@ This is just for fun.We have two problems here. First is full fleged project bas
 
 2. For Running Second Project install and import requests,datetime, zipfile, io,BeautifulSoup(bs4)
 
-There may be several bus in both of the projects. Thank you so much.
+There may be several bugs in both of the projects. Thank you so much.
