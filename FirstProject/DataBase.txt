@@ -1,0 +1,12 @@
+I am creating two tables in My database MinanceDB.
+
+First DB is Employees:
+    id int primary key auto_increment,
+	email varchar(50),
+	firstname varchar(20),
+	lastname varchar(20)
+
+Second DB:
+    id int primary key auto_increment,
+    emp_id int,
+    name varchar(255)not null
